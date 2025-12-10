@@ -6,7 +6,7 @@ Proyek ini dibangun untuk memenuhi tugas akhir **Praktikum Pemrograman Web**.
 
 ## 👥 Anggota Kelompok
 
-| Nama | NIM |
+| Nama | NPM |
 | :--- | :--- |
 | **Raihan Ahmad Fathoni** | 51423206 |
 | **Muhammad Rizqy Pangeran Winarko** | 51423012 |
