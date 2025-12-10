@@ -40,7 +40,7 @@ module.exports = {
     );
   },
   
-  // 🔥 UPDATE kampus
+  // UPDATE kampus
   async update(id, nama, latitude, longitude, url) {
     await db.query(
       `UPDATE daftar_kampus_1
@@ -50,7 +50,7 @@ module.exports = {
     );
   },
 
-  // 🔥 DELETE kampus
+  // DELETE kampus
   async remove(id) {
     await db.query(
       `DELETE FROM daftar_kampus_1 WHERE ID_Kampus = ?`,
